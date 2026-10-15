@@ -1,0 +1,102 @@
+{
+  "slug": "iris-valentine",
+  "name": "Iris Valentine",
+  "pronouns": "they/them",
+  "title": "MFA Candidate, Painting & Drawing",
+  "headline": "Large-scale paintings about memory, migration and colour.",
+  "department": "Lamar Dodd School of Art",
+  "organization": "University of Georgia",
+  "gsaRole": "GSA Member",
+  "badgeLabel": "GSA Member",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "Graduate student at the University of Georgia. Large-scale paintings about memory, migration and colour. Open to collaborations, mentoring and good conversations.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Drought stress memory",
+    "Root phenotyping",
+    "Epigenomics",
+    "Sorghum & millet",
+    "Open science"
+  ],
+  "links": [
+    {
+      "label": "Portfolio",
+      "url": "https://example.com",
+      "icon": "website"
+    },
+    {
+      "label": "Bluesky",
+      "url": "https://bsky.app/",
+      "icon": "social"
+    }
+  ],
+  "publications": [],
+  "projects": [
+    {
+      "title": "Salt & Saffron",
+      "description": "Solo show · 12 oil paintings",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Night Market",
+      "description": "Mural, downtown Athens",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Inherited Blues",
+      "description": "Indigo textile series",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Studio Visits",
+      "description": "Open studio every first Friday",
+      "url": "https://example.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MFA Candidate, Painting & Drawing",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "GSA General Assembly",
+      "date": "Nov 4, 2026",
+      "where": "Tate Center 480",
+      "url": ""
+    },
+    {
+      "title": "Research Showcase Poster Night",
+      "date": "Nov 19, 2026",
+      "where": "Zell B. Miller Learning Center",
+      "url": ""
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#ff3d7f",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#EDEDED"
+  }
+}
